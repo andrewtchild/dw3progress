@@ -1,0 +1,38 @@
+{
+   "markers" : [
+      {
+         "pin" : "planetarybase",
+         "text" : "DW3 Launch Site\nNGC 1981 Sector ZU-Y d27",
+         "x" : 536.6875,
+         "y" : -332.125,
+         "z" : -1112.6875
+      },
+      {
+         "pin" : "carrier",
+         "text" : "Carrier Phase\nGria Drye YA-W d2-4",
+         "x" : -1886.21875,
+         "y" : -1136.875,
+         "z" : 5752.03125
+      }
+   ],
+   "lines" : [
+      {
+         "x1" : 0,
+         "y1" : 0,
+         "z1" : 0,
+         "x2" : 1000,
+         "y2" : 0,
+         "z2" : 26000,
+         "color" : "#F00"
+      },
+      {
+         "x1" : 0,
+         "y1" : 0,
+         "z1" : 0,
+         "x2" : -10000,
+         "y2" : 0,
+         "z2" : 45000,
+         "color" : "#F00"
+      }
+   ]
+}
