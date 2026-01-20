@@ -1,0 +1,45 @@
+{
+   "markers" : [
+      {
+         "pin" : "planetarybase",
+         "text" : "DW3 Launch Site\nNGC 1981 Sector ZU-Y d27\n18 January 3312",
+         "x" : 536.6875,
+         "y" : -332.125,
+         "z" : -1112.6875
+      },
+      {
+         "pin" : "bluecarrier",
+         "text" : "Monde de la Mort\nSpoihaae XE-X d2-9\n25 January 3312",
+         "x" : -9346.12,
+         "y" : -1472.09,
+         "z" : 19659.1
+      },
+      {
+         "pin" : "green",
+         "text" : "1 Rendezvous Point\n1 February 3312",
+         "x" : 6026,
+         "y" : -5,
+         "z" : 42548
+      }
+   ],
+   "lines" : [
+      {
+         "x1" : 536.6875,
+         "y1" : -332.125,
+         "z1" : -1112.6875,
+         "x2" : -9346.12,
+         "y2" : -1472.09,
+         "z2" : 19659.1,
+         "color" : "blue"
+      },
+      {
+         "x1" : -9346.12,
+         "y1" : -1472.09,
+         "z1" : 19659.1,
+         "x2" : 6026,
+         "y2" : -5,
+         "z2" : 42548,
+         "color" : "green"
+      }
+   ]
+}
