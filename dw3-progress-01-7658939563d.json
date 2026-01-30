@@ -23,7 +23,7 @@
       },
       {
          "pin" : "green",
-         "text" : "2 Thuecheae MT-Q e5-8 (The Seldowitch Nebula)",
+         "text" : "2 Thuecheae MT-Q e5-8 (The Seldowitch Nebula)\n8 February 3312",
          "x" : -2271,
          "y" : -63,
          "z" : 53714
@@ -58,4 +58,5 @@
          "color" : "green"
       }
    ]
+
 }
